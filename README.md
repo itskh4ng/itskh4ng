@@ -15,7 +15,7 @@
 
 
 
-## Discord
+## activity
 
 <div align="center">
   <a href="https://discord.com/users/1049145878801293473">
